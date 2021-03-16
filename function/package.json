@@ -1,0 +1,22 @@
+{
+  "name": "ieti-lab7",
+  "version": "1.0.0",
+  "description": "laboratorio7",
+  "main": "",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanmd9/IETI-LAB7.git"
+  },
+  "author": "juanmunoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanmd9/IETI-LAB7/issues"
+  },
+  "homepage": "https://github.com/juanmd9/IETI-LAB7#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
+}
