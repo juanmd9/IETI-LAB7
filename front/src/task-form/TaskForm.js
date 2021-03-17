@@ -69,7 +69,8 @@ export default function TaskForm({ setListTask }) {
         }
         await setListTask([newTask]);
         callA(newTask);
-        history.push("/todo");
+        window.location = '/todo';
+        // history.push("/todo");
     }
     const classes = useStyles();
     const [description, setDescription] = useState();
